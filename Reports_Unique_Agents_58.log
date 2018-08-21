@@ -1,0 +1,109 @@
+Build 'Agents maintenance / Cloud / Reports / Unique Agents' #58, default branch 'master'
+Started 2018-08-15 17:00:43 on 'devops-linux-742' by 'Vladislav Rassokhin (vladislav.rassokhin)'
+Finished 2018-08-15 17:00:48 with status FAILURE 'Failed to create a directory'
+VCS revisions: 'vm-templates' (Git): 24c320f165c96d63d96214e224d944b48b74b29a (branch 'refs/heads/master')
+TeamCity URL http://buildserver.labs.intellij.net/viewLog.html?buildId=33693771&buildTypeId=CloudAgents_UniqueAgents 
+TeamCity server version is 2018.1.2 EAP (build 58479), server timezone: MSK (UTC+03:00)
+
+[17:00:18]E: bt931954 (30s)
+[17:00:18]i: TeamCity server version is 2018.1.2 EAP (build 58479)
+[17:00:18] : Collecting changes in 1 VCS root
+[17:00:18] :	 [Collecting changes in 1 VCS root] VCS Root details
+[17:00:18] :		 [VCS Root details] "vm-templates" {instance id=47029, parent internal id=21161, parent id=CloudAgents_VmTemplates, description: "ssh://git-hosting.labs.intellij.net/vm-templates.git#refs/heads/master"}
+[17:00:18]i:	 [Collecting changes in 1 VCS root] Detecting changes in VCS root 'vm-templates' (used in 'Agents in Default pool', 'Build Ubuntu Base' and 87 other configurations)
+[17:00:18]i:	 [Collecting changes in 1 VCS root] Will collect changes for 'vm-templates' starting from revision 24c320f165c96d63d96214e224d944b48b74b29a
+[17:00:18] :	 [Collecting changes in 1 VCS root] Compute revision for 'vm-templates'
+[17:00:18] :		 [Compute revision for 'vm-templates'] Upper limit revision: 24c320f165c96d63d96214e224d944b48b74b29a
+[17:00:18]i:		 [Compute revision for 'vm-templates'] MaxModId = 12102549
+[17:00:18] :		 [Compute revision for 'vm-templates'] Latest commit attached to build configuration: 24c320f165c96d63d96214e224d944b48b74b29a
+[17:00:18] :		 [Compute revision for 'vm-templates'] Computed revision: 24c320f165c96d63d96214e224d944b48b74b29a
+[17:00:21] : Finalize build settings (21s)
+[17:00:21] :	 [Finalize build settings] Retrieve settings, revision: 24c320f165c96d63d96214e224d944b48b74b29a (21s)
+[17:00:21] :		 [Retrieve settings, revision: 24c320f165c96d63d96214e224d944b48b74b29a] Settings VCS root details
+[17:00:21] :			 [Settings VCS root details] "vm-templates" {instance id=47029, parent internal id=21161, parent id=CloudAgents_VmTemplates, description: "ssh://git-hosting.labs.intellij.net/vm-templates.git#refs/heads/master"}
+[17:00:21] :		 [Retrieve settings, revision: 24c320f165c96d63d96214e224d944b48b74b29a] Load settings from VCS
+[17:00:23] :		 [Retrieve settings, revision: 24c320f165c96d63d96214e224d944b48b74b29a] Generate settings, format: kotlin
+[17:00:43] :		 [Retrieve settings, revision: 24c320f165c96d63d96214e224d944b48b74b29a] Load project model
+[17:00:43] :	 [Finalize build settings] Read build settings from revision 24c320f165c96d63d96214e224d944b48b74b29a
+[17:00:43] :		 [Read build settings from revision 24c320f165c96d63d96214e224d944b48b74b29a] Build settings from VCS were successfully loaded
+[17:00:43] : The build is removed from the queue to be prepared for the start
+[17:00:43] : Starting the build on the agent devops-linux-742
+[17:00:43]i: Agent time zone: Europe/Moscow
+[17:00:43]i: Agent is running under JRE: 1.8.0_181-b13
+[17:00:44]i: Docker monitor started with command: /bin/sh -c "docker events --format "{{json .}}""
+[17:00:44] : Clearing temporary directory: /opt/buildAgent/temp/buildTmp
+[17:00:44] : Publishing internal artifacts
+[17:00:44] :	 [Publishing internal artifacts] Publishing 1 file using [WebPublisher]
+[17:00:44] :	 [Publishing internal artifacts] Publishing 1 file using [ArtifactsCachePublisher]
+[17:00:44] : Will perform clean checkout. Reason: Checkout directory is empty or doesn't exist
+[17:00:44] : Checkout directory: /opt/buildAgent/work/e59b9c5d411a57bc
+[17:00:44] : Updating sources: auto checkout (on server) (1s)
+[17:00:44] :	 [Updating sources] Will use server side checkout: Checkout rules are not supported for vcs root 'vm-templates'. Details: Unsupported rules for agent-side checkout: +:deploy/uniqueAgents.groovy => .
+[17:00:44] :	 [Updating sources] Building and caching clean patch for VCS root: vm-templates
+[17:00:45] :	 [Updating sources] Transferring cached clean patch for VCS root: vm-templates
+[17:00:45] :	 [Updating sources] Repository sources transferred (2.42 KB)
+[17:00:45] :	 [Updating sources] Removing /opt/buildAgent/work/e59b9c5d411a57bc
+[17:00:45] :	 [Updating sources] Updating /opt/buildAgent/work/e59b9c5d411a57bc
+[17:00:45] : Build preparation done
+[17:00:45]E: Step 1/1: Command Line (1s)
+[17:00:45]E:	 [Step 1/1] Agent failed to create build working directory at /opt/buildAgent/work/e59b9c5d411a57bc. Please check agent has necessary permissions and there is enough free space on disk.
+[17:00:46]E:	 [Step 1/1] Agent failed to create build working directory at /opt/buildAgent/work/e59b9c5d411a57bc. Please check agent has necessary permissions and there is enough free space on disk.
+[17:00:45]i:	 [Step 1/1] Docker wrapper: restore directory ownership (1s)
+[17:00:45]i:		 [Docker wrapper: restore directory ownership] Set ownership to 1000/1000 in /opt/buildAgent/work/e59b9c5d411a57bc
+[17:00:45]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"create","id":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","from":"groovy","Type":"container","Action":"create","Actor":{"ID":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","Attributes":{"image":"groovy","name":"awesome_heyrovsky"}},"scope":"local","time":1534341645,"timeNano":1534341645970172082}
+
+[17:00:45]i:		 [Docker wrapper: restore directory ownership] Create docker info file: /opt/buildAgent/temp/buildTmp/.teamcity/docker/build_58/events.json
+[17:00:45]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"attach","id":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","from":"groovy","Type":"container","Action":"attach","Actor":{"ID":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","Attributes":{"image":"groovy","name":"awesome_heyrovsky"}},"scope":"local","time":1534341645,"timeNano":1534341645984451322}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"start","id":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","from":"groovy","Type":"container","Action":"start","Actor":{"ID":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","Attributes":{"image":"groovy","name":"awesome_heyrovsky"}},"scope":"local","time":1534341646,"timeNano":1534341646185508942}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"die","id":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","from":"groovy","Type":"container","Action":"die","Actor":{"ID":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","Attributes":{"exitCode":"0","image":"groovy","name":"awesome_heyrovsky"}},"scope":"local","time":1534341646,"timeNano":1534341646204964827}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"destroy","id":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","from":"groovy","Type":"container","Action":"destroy","Actor":{"ID":"59d7c0c0b148b92acfccb8d6feccdd5def620a0d6a636a2c52113ed4c30c0c12","Attributes":{"image":"groovy","name":"awesome_heyrovsky"}},"scope":"local","time":1534341646,"timeNano":1534341646294529433}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Set ownership to 1000/1000 in /opt/buildAgent/temp/agentTmp
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"create","id":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","from":"groovy","Type":"container","Action":"create","Actor":{"ID":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","Attributes":{"image":"groovy","name":"elegant_jackson"}},"scope":"local","time":1534341646,"timeNano":1534341646395162960}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"attach","id":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","from":"groovy","Type":"container","Action":"attach","Actor":{"ID":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","Attributes":{"image":"groovy","name":"elegant_jackson"}},"scope":"local","time":1534341646,"timeNano":1534341646398524048}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"start","id":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","from":"groovy","Type":"container","Action":"start","Actor":{"ID":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","Attributes":{"image":"groovy","name":"elegant_jackson"}},"scope":"local","time":1534341646,"timeNano":1534341646608885309}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"die","id":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","from":"groovy","Type":"container","Action":"die","Actor":{"ID":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","Attributes":{"exitCode":"0","image":"groovy","name":"elegant_jackson"}},"scope":"local","time":1534341646,"timeNano":1534341646626035571}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"destroy","id":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","from":"groovy","Type":"container","Action":"destroy","Actor":{"ID":"9df7fa24a9fe6c6e1752532baf37f86ce74071d71e0e2875a4792e1c9b92ba39","Attributes":{"image":"groovy","name":"elegant_jackson"}},"scope":"local","time":1534341646,"timeNano":1534341646701803337}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Set ownership to 1000/1000 in /opt/buildAgent/temp/buildTmp
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"create","id":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","from":"groovy","Type":"container","Action":"create","Actor":{"ID":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","Attributes":{"image":"groovy","name":"sleepy_ptolemy"}},"scope":"local","time":1534341646,"timeNano":1534341646811226754}
+
+[17:00:46]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"attach","id":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","from":"groovy","Type":"container","Action":"attach","Actor":{"ID":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","Attributes":{"image":"groovy","name":"sleepy_ptolemy"}},"scope":"local","time":1534341646,"timeNano":1534341646813162056}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"start","id":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","from":"groovy","Type":"container","Action":"start","Actor":{"ID":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","Attributes":{"image":"groovy","name":"sleepy_ptolemy"}},"scope":"local","time":1534341647,"timeNano":1534341647037952079}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"die","id":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","from":"groovy","Type":"container","Action":"die","Actor":{"ID":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","Attributes":{"exitCode":"0","image":"groovy","name":"sleepy_ptolemy"}},"scope":"local","time":1534341647,"timeNano":1534341647058762326}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"destroy","id":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","from":"groovy","Type":"container","Action":"destroy","Actor":{"ID":"8a25910cd22738143b7719f77c5ff721b7ae73cfcd9d1d5bde35ebe46be17415","Attributes":{"image":"groovy","name":"sleepy_ptolemy"}},"scope":"local","time":1534341647,"timeNano":1534341647141785433}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Set ownership to 1000/1000 in /opt/buildAgent/system
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"create","id":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","from":"groovy","Type":"container","Action":"create","Actor":{"ID":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","Attributes":{"image":"groovy","name":"competent_meninsky"}},"scope":"local","time":1534341647,"timeNano":1534341647244578610}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"attach","id":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","from":"groovy","Type":"container","Action":"attach","Actor":{"ID":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","Attributes":{"image":"groovy","name":"competent_meninsky"}},"scope":"local","time":1534341647,"timeNano":1534341647248393517}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"start","id":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","from":"groovy","Type":"container","Action":"start","Actor":{"ID":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","Attributes":{"image":"groovy","name":"competent_meninsky"}},"scope":"local","time":1534341647,"timeNano":1534341647463184459}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"die","id":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","from":"groovy","Type":"container","Action":"die","Actor":{"ID":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","Attributes":{"exitCode":"0","image":"groovy","name":"competent_meninsky"}},"scope":"local","time":1534341647,"timeNano":1534341647483997301}
+
+[17:00:47]i:		 [Docker wrapper: restore directory ownership] Docker event: {"status":"destroy","id":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","from":"groovy","Type":"container","Action":"destroy","Actor":{"ID":"e87c9fe56f91d60320978b98e96a1f7fba2e595942082736e7f061d7e05a3147","Attributes":{"image":"groovy","name":"competent_meninsky"}},"scope":"local","time":1534341647,"timeNano":1534341647593344388}
+
+[17:00:47]i:	 [Step 1/1] Docker wrapper: setting permissions for '/opt/buildAgent/temp/buildTmp' and '/opt/buildAgent/work/e59b9c5d411a57bc' to 755
+[17:00:47]E:	 [Step 1/1] Step Command Line failed with unexpected error
+[17:00:47] : Publishing artifacts
+[17:00:47] :	 [Publishing artifacts] Collecting files to publish: [/opt/buildAgent/temp/buildTmp/.teamcity/docker/build_58/events.json => .teamcity/docker/]
+[17:00:47] :	 [Publishing artifacts] Publishing 1 file using [WebPublisher]: /opt/buildAgent/temp/buildTmp/.teamcity/docker/build_58/events.json => .teamcity/docker
+[17:00:47] :	 [Publishing artifacts] Publishing 1 file using [ArtifactsCachePublisher]: /opt/buildAgent/temp/buildTmp/.teamcity/docker/build_58/events.json => .teamcity/docker
+[17:00:47] : Publishing internal artifacts
+[17:00:47] :	 [Publishing internal artifacts] Publishing 1 file using [WebPublisher]
+[17:00:48] :	 [Publishing internal artifacts] Publishing 1 file using [ArtifactsCachePublisher]
+[17:00:47]W: Publishing artifacts
+[17:00:47] :	 [Publishing artifacts] Collecting files to publish: [report.htm]
+[17:00:47]W:	 [Publishing artifacts] Artifacts path 'report.htm' not found
+[17:00:59] : Build finished
