@@ -1,0 +1,541 @@
+15:38:21.653: Thread:32: [JetDispatcher] Thread FileSystemTrackerCommit:32 created an Avalon marshaller.
+15:38:21.657: Thread:32: [JetDispatcher] Thread FileSystemTrackerCommit:32 pwned.
+15:38:21.663: Thread:1: Running under VS version 11.0.61030.0, registry root .
+15:38:21.680: Thread:1: Aaa.
+15:38:21.699: Thread:1: [Trace::Write] Entering constructor for: Microsoft.HideMenu.HideMenuPackage
+15:38:21.699: Thread:1: [Trace::Write] Entering Initialize() of: Microsoft.HideMenu.HideMenuPackage
+15:38:21.864: Thread:1: IVsToolWindowFactory.CreateToolWindow, 57bcaba1-6a4b-5fce-b2ca-a3985899784e
+15:38:26.491: Thread:1: [LCC for TeamCity] Save new license. oldEdition: , newEdition: 
+15:38:26.495: Thread:1: [RunsProducts] IApplicationDescriptor::RunsProducts::ProductsToRun++ 0^1: JetBrains.TeamCity.Resources.TeamCityApplicationDescriptor.
+15:38:26.533: Thread:1: [RunningProducts] KeyValuePair`2::RunsProducts::ProductContainersNonComposed++ 0^1: “[JetBrains.TeamCity.Resources.TeamCityApplicationDescriptor, Container: Product(TeamCity)]”.
+15:38:26.708: Thread:43: [JetDispatcher] Thread SettingsChangeDispatch:43 created an Avalon marshaller.
+15:38:26.708: Thread:43: [JetDispatcher] Thread SettingsChangeDispatch:43 pwned.
+15:38:26.732: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: <N/A> -> <NULL>.
+15:38:26.956: Thread:1: VSActionManager::Init
+15:38:26.963: Thread:1: Localization for localeId 1033
+15:38:26.964: Thread:1: Localization 'Miscellaneous Files' -> 'Miscellaneous Files'
+15:38:26.964: Thread:1: Localization 'Global' -> 'Global'
+15:38:26.964: Thread:1: Localization 'Text Editor' -> 'Text Editor'
+15:38:26.964: Thread:1: Localization 'Ctrl' -> 'Ctrl'
+15:38:26.964: Thread:1: Localization 'Alt' -> 'Alt'
+15:38:26.964: Thread:1: Localization 'Shift' -> 'Shift'
+15:38:26.964: Thread:1: Localization 'Bkspce' -> 'Bkspce'
+15:38:26.964: Thread:1: Localization 'Tab' -> 'Tab'
+15:38:26.964: Thread:1: Localization 'Break' -> 'Break'
+15:38:26.964: Thread:1: Localization 'Break' -> 'Break'
+15:38:26.964: Thread:1: Localization 'Space' -> 'Space'
+15:38:26.964: Thread:1: Localization 'PgUp' -> 'PgUp'
+15:38:26.965: Thread:1: Localization 'PgDn' -> 'PgDn'
+15:38:26.965: Thread:1: Localization 'Home' -> 'Home'
+15:38:26.965: Thread:1: Localization 'Ins' -> 'Ins'
+15:38:26.965: Thread:1: Localization 'Del' -> 'Del'
+15:38:26.965: Thread:1: Localization 'F1' -> 'F1'
+15:38:26.965: Thread:1: Localization 'F2' -> 'F2'
+15:38:26.965: Thread:1: Localization 'F3' -> 'F3'
+15:38:26.965: Thread:1: Localization 'F4' -> 'F4'
+15:38:26.965: Thread:1: Localization 'F5' -> 'F5'
+15:38:26.965: Thread:1: Localization 'F6' -> 'F6'
+15:38:26.965: Thread:1: Localization 'F7' -> 'F7'
+15:38:26.965: Thread:1: Localization 'F8' -> 'F8'
+15:38:26.965: Thread:1: Localization 'F9' -> 'F9'
+15:38:26.965: Thread:1: Localization 'F10' -> 'F10'
+15:38:26.965: Thread:1: Localization 'F11' -> 'F11'
+15:38:26.965: Thread:1: Localization 'F12' -> 'F12'
+15:38:26.965: Thread:1: Localization 'F13' -> 'F13'
+15:38:26.965: Thread:1: Localization 'F14' -> 'F14'
+15:38:26.965: Thread:1: Localization 'F15' -> 'F15'
+15:38:26.965: Thread:1: Localization 'F16' -> 'F16'
+15:38:26.965: Thread:1: Localization 'Left Arrow' -> 'Left Arrow'
+15:38:26.965: Thread:1: Localization 'Right Arrow' -> 'Right Arrow'
+15:38:26.965: Thread:1: Localization 'Up Arrow' -> 'Up Arrow'
+15:38:26.965: Thread:1: Localization 'Down Arrow' -> 'Down Arrow'
+15:38:26.965: Thread:1: Localization 'End' -> 'End'
+15:38:26.965: Thread:1: Localization 'Enter' -> 'Enter'
+15:38:26.965: Thread:1: Localization 'Esc' -> 'Esc'
+15:38:26.966: Thread:1: Localization 'Num 0' -> 'Num 0'
+15:38:26.966: Thread:1: Localization 'Num 1' -> 'Num 1'
+15:38:26.966: Thread:1: Localization 'Num 2' -> 'Num 2'
+15:38:26.966: Thread:1: Localization 'Num 3' -> 'Num 3'
+15:38:26.966: Thread:1: Localization 'Num 4' -> 'Num 4'
+15:38:26.966: Thread:1: Localization 'Num 5' -> 'Num 5'
+15:38:26.966: Thread:1: Localization 'Num 6' -> 'Num 6'
+15:38:26.966: Thread:1: Localization 'Num 7' -> 'Num 7'
+15:38:26.966: Thread:1: Localization 'Num 8' -> 'Num 8'
+15:38:26.966: Thread:1: Localization 'Num 9' -> 'Num 9'
+15:38:26.966: Thread:1: Localization 'Num *' -> 'Num *'
+15:38:26.966: Thread:1: Localization 'Num +' -> 'Num +'
+15:38:26.966: Thread:1: Localization 'Num -' -> 'Num -'
+15:38:26.966: Thread:1: Localization 'Num .' -> 'Num .'
+15:38:26.966: Thread:1: Localization 'Num /' -> 'Num /'
+15:38:26.970: Thread:1: [VSAMSS] Target path: C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\vAny\vs11.0\vsActionManager.DotSettings
+15:38:26.971: Thread:1: [VSAMSS] Old path missing: C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0\vsActionManager.DotSettings. 
+15:38:26.971: Thread:1: [VSAMSS] Old path missing: C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.0\vs11.0\vsActionManager.DotSettings. 
+15:38:27.143: Thread:1: [VsShortcutManager] CurrentInputLanguage changed from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:27.182: Thread:1: [VsShortcutManager] CurrentInputLanguage restored from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:27.182: Thread:1: Unused action handlers for action 'ShowThemedIconsToolWindow'
+15:38:27.182: Thread:1: Unused action handlers for action 'FocusMonitor'
+15:38:27.182: Thread:1: Unused action handlers for action 'Expand'
+15:38:27.182: Thread:1: Unused action handlers for action 'Collapse'
+15:38:27.182: Thread:1: Unused action handlers for action 'CopyLayerToLayer'
+15:38:27.182: Thread:1: Unused action handlers for action 'SettingsLayersDialogToolbar.AddLayer'
+15:38:27.182: Thread:1: Unused action handlers for action 'SettingsLayersDialogToolbar.ImportFrom'
+15:38:27.182: Thread:1: Unused action handlers for action 'DumpToolWindowState'
+15:38:27.182: Thread:1: Unused action handlers for action 'TestUpdatesXslt'
+15:38:27.182: Thread:1: Unused action handlers for action 'WindowManager.ActivateRecentTool'
+15:38:27.182: Thread:1: Unused action handlers for action 'WindowManager.CloseRecentTool'
+15:38:27.182: Thread:1: Unused action handlers for action 'ShowReferencesGivenByVS'
+15:38:27.182: Thread:1: Unused action handlers for action 'TestComboBox'
+15:38:27.182: Thread:1: Unused action handlers for action 'TestComboBox2'
+15:38:27.182: Thread:1: Unused action handlers for action 'DynamicButton'
+15:38:27.182: Thread:1: Unused action handlers for action 'TeamCity.ShowChanges.ViewDetails'
+15:38:27.182: Thread:1: Unused action handlers for action 'TeamCity.ShowCurrentVersion'
+15:38:27.182: Thread:1: Unused action handlers for action 'TeamCity.ExceptionCheck'
+15:38:27.182: Thread:1: Unused action handlers for action 'TeamCity.TestsView.ChangeLayout'
+15:38:27.182: Thread:1: Unused action handlers for action 'TeamCity.RemoteRun.ChangesView.Diff.LatestVersion'
+15:38:27.188: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Left for action TextControl.Left, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 1, was new: False.
+15:38:27.188: Thread:1: [RegisterRuntimeCommand] TextControl.Left - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 1”.
+15:38:27.191: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Left_Selection for action TextControl.Left.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 2, was new: False.
+15:38:27.191: Thread:1: [RegisterRuntimeCommand] TextControl.Left.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 2”.
+15:38:27.191: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Undo for action TextControl.Undo, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 3, was new: False.
+15:38:27.191: Thread:1: [RegisterRuntimeCommand] TextControl.Undo - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 3”.
+15:38:27.191: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Right for action TextControl.Right, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 4, was new: False.
+15:38:27.191: Thread:1: [RegisterRuntimeCommand] TextControl.Right - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 4”.
+15:38:27.192: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Right_Selection for action TextControl.Right.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 5, was new: False.
+15:38:27.192: Thread:1: [RegisterRuntimeCommand] TextControl.Right.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 5”.
+15:38:27.192: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Up for action TextControl.Up, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 6, was new: False.
+15:38:27.192: Thread:1: [RegisterRuntimeCommand] TextControl.Up - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 6”.
+15:38:27.192: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Up_Selection for action TextControl.Up.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 7, was new: False.
+15:38:27.192: Thread:1: [RegisterRuntimeCommand] TextControl.Up.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 7”.
+15:38:27.192: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Down for action TextControl.Down, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 8, was new: False.
+15:38:27.192: Thread:1: [RegisterRuntimeCommand] TextControl.Down - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 8”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Down_Selection for action TextControl.Down.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 9, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.Down.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 9”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PageUp for action TextControl.PageUp, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 10, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.PageUp - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 10”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PageUp_Selection for action TextControl.PageUp.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 11, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.PageUp.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 11”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PageDown for action TextControl.PageDown, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 12, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.PageDown - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 12”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PageDown_Selection for action TextControl.PageDown.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 13, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.PageDown.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 13”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_DocumentHome for action TextControl.DocumentHome, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 14, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.DocumentHome - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 14”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_DocumentHome_Selection for action TextControl.DocumentHome.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 15, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.DocumentHome.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 15”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_DocumentEnd for action TextControl.DocumentEnd, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 16, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.DocumentEnd - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 16”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_DocumentEnd_Selection for action TextControl.DocumentEnd.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 17, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.DocumentEnd.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 17”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Home for action TextControl.Home, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 18, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.Home - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 18”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Home_Selection for action TextControl.Home.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 19, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.Home.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 19”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_End for action TextControl.End, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 20, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.End - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 20”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_End_Selection for action TextControl.End.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 21, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.End.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 21”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Delete for action TextControl.Delete, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 22, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.Delete - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 22”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Backspace for action TextControl.Backspace, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 23, was new: False.
+15:38:27.193: Thread:1: [RegisterRuntimeCommand] TextControl.Backspace - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 23”.
+15:38:27.193: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Enter for action TextControl.Enter, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 24, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.Enter - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 24”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Copy for action TextControl.Copy, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 25, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.Copy - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 25”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Cut for action TextControl.Cut, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 26, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.Cut - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 26”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Paste for action TextControl.Paste, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 27, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.Paste - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 27”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_SelectAll for action TextControl.SelectAll, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 28, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.SelectAll - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 28”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PreviousWord for action TextControl.PreviousWord, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 29, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.PreviousWord - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 29”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_PreviousWord_Selection for action TextControl.PreviousWord.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 30, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.PreviousWord.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 30”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_NextWord for action TextControl.NextWord, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 31, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.NextWord - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 31”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_NextWord_Selection for action TextControl.NextWord.Selection, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 32, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.NextWord.Selection - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 32”.
+15:38:27.194: Thread:1: [VsActionManager] Added named VS Command TeamCity_TextControl_Tab for action TextControl.Tab, Command ID 42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 33, was new: False.
+15:38:27.194: Thread:1: [RegisterRuntimeCommand] TextControl.Tab - “42f30a4c-c610-4ee5-8821-9e7e151dfc50 : 33”.
+15:38:27.528: Thread:1: TeamCity Addin 8.1 Version=8.1.48.476, Built=2014-05-05T15:08:26, Configuration=“CLR4 PublicMode VS1100”
+15:38:27.652: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HavePendingSwitch: <N/A> -> False.
+15:38:27.658: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::(HavePendingSwitch,IsApplicationActive).And: <N/A> -> False.
+15:38:27.658: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HaveSwitchAndActiveDeferred: <N/A> -> False.
+15:38:27.780: Thread:1: @[MemoryUsageIndicator] Int64::MemoryUsageValue: <N/A> -> 0.
+15:38:27.782: Thread:1: @[MemoryUsageIndicator] JetStatusBarIndicator::Indicator: <N/A> -> <NULL>.
+15:38:27.783: Thread:1: @[MemoryUsageIndicator] Boolean::IsVisible: <N/A> -> False.
+15:38:27.848: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: <N/A> -> IVsWindowFrame::Empty.
+15:38:27.961: Thread:1: Applying shortcut scheme. Current scheme - NotSet
+15:38:27.961: Thread:1: Shortcut scheme VS applied succesfully. Current scheme - VS
+15:38:27.962: Thread:44: [JetDispatcher] Thread GlobalMutexCookieFactory.PersistenceHome:44 created an Avalon marshaller.
+15:38:27.962: Thread:44: [JetDispatcher] Thread GlobalMutexCookieFactory.PersistenceHome:44 pwned.
+15:38:27.968: Thread:1: [PERSISTENCE_HOME] File 'DelayedCommit.Settings.xml' not found in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0'
+15:38:27.968: Thread:1: [PERSISTENCE_HOME] File 'DelayedCommit.Settings.xml' created in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0\DelayedCommit.Settings.xml'
+15:38:27.968: Thread:1: [PERSISTENCE_HOME] File 'DelayedCommit.User.Settings.xml' found in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0'
+15:38:27.970: Thread:1: [PERSISTENCE_HOME] Directory 'persistence' found in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0'
+15:38:27.980: Thread:1: [ExtensionLoader] Load extension descriptor from JetBrains.TeamCity.RemoteRun.Extension.EnvironmentExtensionLoader:Environment provided extension
+15:38:27.983: Thread:1: [VsShortcutManager] CurrentInputLanguage changed from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:27.983: Thread:1: [VsShortcutManager] CurrentInputLanguage restored from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:27.983: Thread:1: [ExtensionLoader] Load extension descriptor from JetBrains.TeamCity.RemoteRun.Extension.RegistryExtensionLoader:Registry
+15:38:27.984: Thread:1: [VsShortcutManager] CurrentInputLanguage changed from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:27.985: Thread:1: [VsShortcutManager] CurrentInputLanguage restored from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:28.005: Thread:1: [TFSExtensionLoader] Assembly Microsoft.TeamFoundation.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.006: Thread:1: [TFSExtensionLoader] Assembly Microsoft.TeamFoundation.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.010: Thread:1: [TFSExtensionLoader] Assembly Microsoft.TeamFoundation.VersionControl.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.012: Thread:1: [TFSExtensionLoader] Assembly Microsoft.TeamFoundation.VersionControl.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.014: Thread:1: [TFSExtensionLoader] Assembly Microsoft.TeamFoundation.WorkItemTracking.Client, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.021: Thread:1: [TFSExtensionLoader] Assembly Microsoft.VisualStudio.TeamFoundation.VersionControl, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a was successfully found
+15:38:28.021: Thread:1: [TFSExtensionLoader] Everything was found; TeamCity.VSTS plug-in was loaded
+15:38:28.046: Thread:1: [VsShortcutManager] CurrentInputLanguage changed from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:28.046: Thread:1: [VsShortcutManager] CurrentInputLanguage restored from United Kingdom (en-GB) to United Kingdom (en-GB)
+15:38:28.053: Thread:1: [RunningProducts] KeyValuePair`2::RunsProducts::ProductContainersComposed++ 0^1: “[JetBrains.TeamCity.Resources.TeamCityApplicationDescriptor, Container: Product(TeamCity)]”.
+15:38:30.671: Thread:1: [UserActivityMonitor] Boolean::IncomingUserContextSwitchDetected: fired True.
+15:38:30.671: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HavePendingSwitch: False -> True.
+15:38:53.123: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::(HavePendingSwitch,IsApplicationActive).And: False -> True.
+15:38:54.536: Thread:1: [Trace::Write] Entering constructor for: SlowCheetah.VisualStudio.SlowCheetahPackage
+15:38:54.537: Thread:1: [Trace::Write] SlowCheetah initalizing
+15:38:54.542: Thread:1: [Trace::Write] Entering Initialize() of: SlowCheetah.VisualStudio.SlowCheetahPackage
+15:38:54.573: Thread:1: [Trace::Write] TestWindow package loaded
+15:38:55.030: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::.ctor
+15:38:55.030: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::CanExtend for {4EF9F003-DE95-4D60-96B0-212979F2A857}, TeamCityPropertiesExtenderProvider
+15:38:57.498: Thread:77: [JetDispatcher] Thread ApplicationMutices:77 created an Avalon marshaller.
+15:38:57.498: Thread:77: [JetDispatcher] Thread ApplicationMutices:77 pwned.
+15:38:57.897: Thread:1: Load task: Pause
+15:38:57.897: Thread:1: @[VsSolutionManager10] VSSolutionManager::VsSolutionWrapperLifetimes: Solution instance created 40787061
+15:38:58.352: Thread:1: [Taggers]() Tagger Provider is coming!
+15:39:01.209: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::(HavePendingSwitch,IsApplicationActive).And: True -> False.
+15:39:01.782: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::CanExtend for {4EF9F003-DE95-4D60-96B0-212979F2A857}, TeamCityPropertiesExtenderProvider
+15:39:01.783: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::CanExtend for {4EF9F003-DE95-4D60-96B0-212979F2A857}, TeamCityPropertiesExtenderProvider
+15:39:01.785: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::CanExtend for {4EF9F003-DE95-4D60-96B0-212979F2A857}, TeamCityPropertiesExtenderProvider
+15:39:01.864: Thread:1: PropertiesExtenderProvider D83FCBA7-7AD8-4067-B93E-A691EE454D33::CanExtend for {4EF9F003-DE95-4D60-96B0-212979F2A857}, TeamCityPropertiesExtenderProvider
+15:39:01.868: Thread:1: @[ProjectActiveConfigurationAccessor] [PACA] Cleared
+  15:39:02.233: Thread:1: VSDocumentOperationsHandler::ConnectToStream, id 48437304 text stream:21248322
+15:39:02.242: Thread:1: +SynchronizeDocumentTable
+15:39:02.244: Thread:1: -SynchronizeDocumentTable
+15:39:02.514: Thread:1: [ServerVersionHolder] Plugin_Version(8.1.0.0|8.1.3|30101) loaded from registry. Used subkey: 'Software\JetBrains\TeamCity\v8.1\vs11.0'
+15:39:02.523: Thread:1: Solution key = c:\%REMOVED%$#$c:\%REMOVED%\%REMOVED%.bl.sln$$##$$c:\%REMOVED%\%REMOVED%.bl.suo
+15:39:02.523: Thread:1: [RegistryAutoLoginPersistance] Start loading settings from registry.
+15:39:02.524: Thread:1: [RegistryAutoLoginPersistance] Settings loaded. 
+15:39:02.530: Thread:37: [LOGIN] Begin Login. Server=http://%REMOVED%.eu-west-1.compute.amazonaws.com, User=%REMOVED%
+15:39:02.536: Thread:71: [JetDispatcher] Thread GlobalMutexCookieFactory.XmlGlobalPersistenceProvider:71 created an Avalon marshaller.
+15:39:02.536: Thread:71: [JetDispatcher] Thread GlobalMutexCookieFactory.XmlGlobalPersistenceProvider:71 pwned.
+15:39:02.537: Thread:72: [JetDispatcher] Thread GlobalMutexCookieFactory.XmlPerSolutionPersistenceProvider:72 created an Avalon marshaller.
+15:39:02.537: Thread:72: [JetDispatcher] Thread GlobalMutexCookieFactory.XmlPerSolutionPersistenceProvider:72 pwned.
+15:39:02.541: Thread:1: Solution key = c:\%REMOVED%$#$c:\%REMOVED%\%REMOVED%.bl.sln$$##$$c:\%REMOVED%\%REMOVED%.bl.suo
+15:39:02.545: Thread:37: [LOGIN_LOWLEVEL] Begin login to server=%REMOVED%.eu-west-1.compute.amazonaws.com, user=%REMOVED%
+15:39:02.545: Thread:37: [LOGIN_LOWLEVEL] Getting server version...
+15:39:02.620: Thread:1: Solution key = c:\%REMOVED%$#$c:\%REMOVED%\%REMOVED%.bl.sln$$##$$c:\%REMOVED%\%REMOVED%.bl.suo
+15:39:02.643: Thread:76: [LOGIN_LOWLEVEL] Got server version: Server_Version(8.1.0.0|8.1.3|30101)
+15:39:02.643: Thread:76: [LOGIN_LOWLEVEL] Plugin version is Plugin_Version(8.1.0.0|8.1.3|30101)
+15:39:02.644: Thread:76: [LOGIN_LOWLEVEL] Server version is accepted.
+15:39:02.644: Thread:76: [LOGIN_LOWLEVEL] Getting server key...
+15:39:02.717: Thread:4: [LOGIN_LOWLEVEL] Key received
+15:39:02.717: Thread:4: [LOGIN_LOWLEVEL] Authenticating...
+15:39:02.730: Thread:1: [PERSISTENCE_HOME] Directory 'perforce' found in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0'
+15:39:02.735: Thread:82: [JetDispatcher] Thread SvnDataProvider:82 created an Avalon marshaller.
+15:39:02.735: Thread:82: [JetDispatcher] Thread SvnDataProvider:82 pwned.
+15:39:02.751: Thread:1: [SvnLocalRootsManager] Persisted local roots loaded.
+C:\src
+15:39:02.753: Thread:1: [PERSISTENCE_HOME] Directory 'svn' found in 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0'
+15:39:02.792: Thread:76: [LOGIN_LOWLEVEL] Authenticaticated
+15:39:02.794: Thread:76: [LOGIN] Logged in
+15:39:02.800: Thread:76: [LoginManagerComponentImpl] Saving login params after succesfull login (RememberMe is TRUE)
+15:39:02.801: Thread:76: Solution key = c:\%REMOVED%$#$c:\%REMOVED%\%REMOVED%.bl.sln$$##$$c:\%REMOVED%\%REMOVED%.bl.suo
+15:39:02.801: Thread:76: [RegistryAutoLoginPersistance] Start loading settings from registry.
+15:39:02.801: Thread:76: [RegistryAutoLoginPersistance] Settings loaded. 
+15:39:02.802: Thread:76: [RegistryAutoLoginPersistance] Start saving settings to registry.
+15:39:02.803: Thread:1: [DotCover plugin manager] DotCover wasn't detected
+15:39:02.803: Thread:76: [RegistryAutoLoginPersistance] Settings saved.
+15:39:02.807: Thread:1: Solution key = c:\%REMOVED%$#$c:\%REMOVED%\%REMOVED%.bl.sln$$##$$c:\%REMOVED%\%REMOVED%.bl.suo
+15:39:02.810: Thread:86: [RelatedBuildConfigurationsTracker] Related configurations collection requested
+15:39:02.813: Thread:1: [PersonalChangesTracker] Starting...
+15:39:02.813: Thread:1: [PersonalChangesTracker] Started.
+15:39:02.907: Thread:74: [PersonalChangesTracker] Current TeamServerSummaryVersion: 1
+15:39:03.080: Thread:86: [RelatedBuildConfigurationsTracker] No related configurations found for local roots: System.Linq.Enumerable+WhereSelectArrayIterator`2[System.String,System.String]
+15:39:03.080: Thread:86: [RelatedBuildConfigurationsTracker] Related configurations collecting finished
+15:39:03.368: Thread:1: [ReSharper plugin manager] ReSharper was detected. Version: 7.1.3000.2254;
+15:39:03.372: Thread:1: [ReSharper plugin manager] Loading suitable plugin 'TeamCity plug-in for ReSharper 7.1'
+15:39:03.435: Thread:1: [ReSharper plugin manager] No errros while installing TeamCity plug-in for ReSharper 7.1.
+15:39:03.455: Thread:1: [DELAYED_COMMIT_PERSISTENCE] Failed deserialize from file 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0\DelayedCommit.Settings.xml'
+15:39:03.462: Thread:1: EXCEPTION: There is an error in XML document (0, 0).
+There is an error in XML document (0, 0). ---> System.InvalidOperationException: There is an error in XML document (0, 0). ---> System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlTextReader.Read()
+   at System.Xml.XmlReader.MoveToContent()
+   at Microsoft.Xml.Serialization.GeneratedAssembly.XmlSerializationReaderDelayedCommitPersistanceData.Read1_DelayedCommitPersistanceData()
+   --- End of inner exception stack trace ---
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at JetBrains.TeamCity.Utils.SerializationUtil`1.Deserialize(String file)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitPersistenceNewImpl.DeserializeFileContent(String file)
+   Exception_EndOfInnerExceptionStack
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitPersistenceNewImpl.<>c__DisplayClass3.<LoadCookies>b__0(FileSystemPath file)
+   at JetBrains.TeamCity.Utils.Persistence.PersistenceHomeImpl.DoWithDelayedCommitFile(Action`1 actionWithFile)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitPersistenceNewImpl.LoadCookies(InstanceKey key)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitTrackerNewImpl.LoadState(InstanceKey key)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitTrackerNewImpl.<>c__DisplayClass6.<OnCurrentInstanceKeyChange>b__5()
+   at JetBrains.Util.Logging.Logger.Catch(Action action)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitTrackerNewImpl.OnCurrentInstanceKeyChange(PropertyChangedEventArgs`1 args)
+   at JetBrains.DataFlow.Property`1.PropertyChangeSignal.Acknowledge(Action`1 handler, AddRemove addremove)
+   at JetBrains.DataFlow.Property`1.PropertyChangeSignal.OnAfterAdvise(Action`1 handler)
+   at JetBrains.DataFlow.Signal`1.<>c__DisplayClass2.<AdviseCore>b__0()
+   at JetBrains.DataFlow.Lifetime.AddBracket(Action FOpening, Action FClosing)
+   at JetBrains.DataFlow.Signal`1.AdviseCore(Action`1 handler, Lifetime lifetime)
+   at JetBrains.DataFlow.Signal`1.Advise(Lifetime lifetime, Action`1 handler)
+   at JetBrains.TeamCity.RemoteRun.DelayedCommit.Impl.DelayedCommitTrackerNewImpl..ctor(Lifetime lifetime, InstanceKeyTracker instanceKeyTracker, IPersonalChangesTracker changesTracker, DelayedCommitPersistenceNew delayedCommitPersistence, DelayedCommitProcessor processor, DelayedCommitExecutor executor)
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeConstructorInfo.Invoke(BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at JetBrains.Application.Extensibility.PartComponentDescriptor.CreateInstanceOf(Type type, IValueResolveContext context)
+   at JetBrains.Application.Extensibility.PartComponentDescriptor.CreateInstance(IValueResolveContext context)
+   at JetBrains.Application.Components.SingletonDescriptor.CreateInstanceChecked(OnError onError, IComponentContainer container)
+   at JetBrains.Application.Components.SingletonDescriptor.GetValue()
+   at JetBrains.Application.Components.SignatureResolution.BindArguments(List`1 argumentDescriptors)
+   at JetBrains.Application.Extensibility.PartComponentDescriptor.CreateInstanceOf(Type type, IValueResolveContext context)
+   at JetBrains.Application.Extensibility.PartComponentDescriptor.CreateInstance(IValueResolveContext context)
+   at JetBrains.Application.Components.SingletonDescriptor.CreateInstanceChecked(OnError onError, IComponentContainer container)
+   at JetBrains.Application.Components.SingletonDescriptor.GetValue()
+   at JetBrains.Application.Components.ComponentStorage.InstantiateDescriptors(IEnumerable`1 descriptors)
+   at JetBrains.Application.Components.ComponentStorage.ComposeDescriptors(ICollection`1 descriptors)
+   at JetBrains.Application.Components.ComponentStorage.Compose()
+   at JetBrains.ProjectModel.SolutionInstance.OpenSolution(ISolutionOwner solutionOwner)
+   at JetBrains.ProjectModel.SolutionManagerBase.<>c__DisplayClass5.<CreateSolutionInstance>b__3()
+   at JetBrains.ProjectModel.Tasks.SolutionLoadTasksSchedulerBase.<>c__DisplayClass4.<ExecuteOneTask>b__3()
+   at JetBrains.Util.Logging.Logger.Catch(Action action)
+   at JetBrains.ProjectModel.Tasks.SolutionLoadTasksSchedulerBase.ExecuteOneTask(SolutionLoadTask task)
+   at JetBrains.VsIntegration.ProjectModel.VsSolutionLoadTasksScheduler.<ExecuteTasks>b__1()
+   at JetBrains.Application.IShellLocksEx.ExecuteWithReadLock(IShellLocks thіs, Action F)
+   at JetBrains.Application.IShellLocksEx.<>c__DisplayClass4.<ExecuteOrQueueReadLock>b__3()
+   at JetBrains.Threading.ReentrancyGuard.Execute(String name, Action action)
+   at JetBrains.Threading.ReentrancyGuard.ExecuteOrQueue(String name, Action action)
+   at JetBrains.Threading.IThreadingEx.ExecuteOrQueue(IThreading thіs, String name, Action action)
+   at JetBrains.Application.IShellLocksEx.ExecuteOrQueueReadLock(IShellLocks thіs, String name, Action F)
+   at JetBrains.VsIntegration.ProjectModel.VsSolutionLoadTasksScheduler.<ExecuteTasks>b__0()
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+
+
+15:39:03.463: Thread:1: [DELAYED_COMMIT_PERSISTENCE] File 'C:\Users\%REMOVED%\AppData\Local\JetBrains\TeamCity\v8.1\vs11.0\DelayedCommit.Settings.xml' was deleted
+15:39:03.464: Thread:1: Loaded delayed commit cookies for changes with IDs: 
+15:39:03.464: Thread:88: [JetDispatcher] Thread GlobalMutexCookieFactory.DelayedCommitTrackerNewImpl:88 created an Avalon marshaller.
+15:39:03.464: Thread:88: [JetDispatcher] Thread GlobalMutexCookieFactory.DelayedCommitTrackerNewImpl:88 pwned.
+15:39:03.470: Thread:87: [JetDispatcher] Thread WorkingCopyManager:87 created an Avalon marshaller.
+15:39:03.470: Thread:87: [JetDispatcher] Thread WorkingCopyManager:87 pwned.
+15:39:03.483: Thread:84: [JetDispatcher] Thread WorkingCopyManager:84 created an Avalon marshaller.
+15:39:03.483: Thread:84: [JetDispatcher] Thread WorkingCopyManager:84 pwned.
+15:39:03.720: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] << (Opening) ResultList UI binding automation object UIResultListPublisherAutomation+Tokod.
+15:39:03.721: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: <N/A> -> False.
+15:39:03.726: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: <N/A> -> NotPublished.
+15:39:03.730: Thread:1: @[UIResultListPublisherBehavior+Tokod] << (Opening) Attached to WinForms control for automation UIResultListPublisherAutomation+Tokod.
+15:39:03.929: Thread:1: TreeModelView.SaveState was called without restoring previous state
+15:39:04.171: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePathPersonal: <N/A> -> C:\%REMOVED%\src\tests\%REMOVED%.Bl.%REMOVED%.Test\%REMOVED%.Bl.%REMOVED%.Test.csproj.DotSettings.user.
+15:39:04.172: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePath: <N/A> -> C:\%REMOVED%\src\tests\%REMOVED%.Bl.%REMOVED%.Test\%REMOVED%.Bl.%REMOVED%.Test.csproj.DotSettings.
+15:39:04.205: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePathPersonal: <N/A> -> C:\%REMOVED%\src\tests\%REMOVED%.Bl.WinService.Test\%REMOVED%.Bl.WinService.Test.csproj.DotSettings.user.
+15:39:04.205: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePath: <N/A> -> C:\%REMOVED%\src\tests\%REMOVED%.Bl.WinService.Test\%REMOVED%.Bl.WinService.Test.csproj.DotSettings.
+15:39:04.212: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePathPersonal: <N/A> -> C:\%REMOVED%\src\apps\%REMOVED%.Bl.%REMOVED%\%REMOVED%.Bl.%REMOVED%.csproj.DotSettings.user.
+15:39:04.212: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePath: <N/A> -> C:\%REMOVED%\src\apps\%REMOVED%.Bl.%REMOVED%\%REMOVED%.Bl.%REMOVED%.csproj.DotSettings.
+15:39:04.216: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePathPersonal: <N/A> -> C:\%REMOVED%\src\apps\%REMOVED%.Bl.WinService\%REMOVED%.Bl.WinService.csproj.DotSettings.user.
+15:39:04.217: Thread:1: @[IPropertyEx] [PPP] FileSystemPath::ProjectSettingsStoragePath: <N/A> -> C:\%REMOVED%\src\apps\%REMOVED%.Bl.WinService\%REMOVED%.Bl.WinService.csproj.DotSettings.
+15:39:05.336: Thread:1: Can't resolve reference Cassandra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.340: Thread:1: Can't resolve reference Cassandra, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.342: Thread:1: Can't resolve reference log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.345: Thread:1: Can't resolve reference log4net, Version=1.2.11.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.347: Thread:1: Can't resolve reference Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.349: Thread:1: Can't resolve reference Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.DataAccess.dll
+15:39:05.369: Thread:1: Can't resolve reference Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.WebApi.dll
+15:39:05.371: Thread:1: Can't resolve reference Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.WebApi.dll
+15:39:05.373: Thread:1: Can't resolve reference System.Net.Http.Formatting, Version=5.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.WebApi.dll
+15:39:05.376: Thread:1: Can't resolve reference System.Net.Http.Formatting, Version=5.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.WebApi.dll
+15:39:05.803: Thread:1: Can't resolve reference System.Net.Http.Formatting, Version=5.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35 from C:\%REMOVED%\lib\internal\%REMOVED%.Internal\%REMOVED%.WebApi.dll
+15:39:05.857: Thread:1: Solution load time: 36 tasks: 3.36 seconds (3361 millis), max time = 1.55 seconds (1547 millis)
+15:39:05.860: Thread:1: 	LoadSolutionFromCache time: 2 tasks: 0.00 seconds (0 millis), max time = 0.00 seconds (0 millis)
+15:39:05.860: Thread:1: 	WaitInitialSynchronizeSolution time: 1 tasks: 0.00 seconds (0 millis), max time = 0.00 seconds (0 millis)
+15:39:05.860: Thread:1: 	InitialSynchronizeSolution time: 15 tasks: 0.19 seconds (188 millis), max time = 0.08 seconds (78 millis)
+15:39:05.860: Thread:1: 	SolutionContainer time: 9 tasks: 1.58 seconds (1579 millis), max time = 1.49 seconds (1485 millis)
+15:39:05.860: Thread:1: 	FireProjectItemsAdded time: 2 tasks: 1.55 seconds (1547 millis), max time = 1.55 seconds (1547 millis)
+15:39:05.860: Thread:1: 	FireAssembliesAdded time: 1 tasks: 0.02 seconds (16 millis), max time = 0.02 seconds (16 millis)
+15:39:05.860: Thread:1: 	KickOff time: 1 tasks: 0.00 seconds (0 millis), max time = 0.00 seconds (0 millis)
+15:39:05.860: Thread:1: 	FinalSynchronizeSolution time: 1 tasks: 0.00 seconds (0 millis), max time = 0.00 seconds (0 millis)
+15:39:05.860: Thread:1: 	Done time: 3 tasks: 0.03 seconds (31 millis), max time = 0.03 seconds (31 millis)
+15:39:05.860: Thread:1: 	AfterDone time: 1 tasks: 0.00 seconds (0 millis), max time = 0.00 seconds (0 millis)
+15:39:05.862: Thread:1: OnAddHierarchy
+15:39:06.170: Thread:1: OnAddHierarchy
+15:39:07.959: Thread:74: [PersonalChangesTracker] Current TeamServerSummaryVersion: 2
+15:39:08.836: Thread:20: [Svn] Start GetPendingChanges. 08/07/2014 15:39:08
+15:39:10.363: Thread:20: [Svn] Finished GetPendingChanges. 08/07/2014 15:39:10
+15:39:10.382: Thread:20: [JetDispatcher] Thread “JetPool #4 (SL)”:20 created an Avalon marshaller.
+15:39:10.382: Thread:20: [JetDispatcher] Thread “JetPool #4 (SL)”:20 pwned.
+15:39:19.141: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::(HavePendingSwitch,IsApplicationActive).And: False -> True.
+15:39:21.151: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HaveSwitchAndActiveDeferred: False -> True.
+15:39:21.151: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HavePendingSwitch: True -> False.
+15:39:21.152: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::(HavePendingSwitch,IsApplicationActive).And: True -> False.
+15:39:21.152: Thread:1: [UserActivityMonitor] Boolean::UserContextSwitch: fired True.
+15:39:23.144: Thread:1: @[IPropertyEx] [UserActivityMonitor] Boolean::HaveSwitchAndActiveDeferred: True -> False.
+15:41:29.697: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: False -> True.
+15:41:29.699: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: NotPublished -> FocusPublished.
+15:41:29.700: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] << (Opening) IsToPublish high, publishing the result list.
+15:41:29.702: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: <NULL> -> ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel).
+15:41:29.717: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Empty -> IVsWindowFrame::Retoh.
+15:41:36.368: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: True -> False.
+15:41:36.368: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: FocusPublished -> NotPublished.
+15:41:36.368: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel) -> <NULL>.
+15:41:36.369: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] >> (Closing) IsToPublish high, publishing the result list.
+15:41:36.369: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Retoh -> IVsWindowFrame::Empty.
+15:41:40.265: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: False -> True.
+15:41:40.265: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: NotPublished -> FocusPublished.
+15:41:40.265: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] << (Opening) IsToPublish high, publishing the result list.
+15:41:40.265: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: <NULL> -> ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel).
+15:41:40.269: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Empty -> IVsWindowFrame::Retoh.
+15:41:40.384: Thread:20: [Svn] Start GetPendingChanges. 08/07/2014 15:41:40
+15:41:41.838: Thread:20: [Svn] Finished GetPendingChanges. 08/07/2014 15:41:41
+15:41:55.612: Thread:1: Getting suitable configurations from TeamCity server %REMOVED%.eu-west-1.compute.amazonaws.com.
+15:41:55.612: Thread:1: Target URL's:
+svn://3d8e3ad2-100e-453a-9215-b958a6f6ad8b|BL/trunk/%REMOVED%.Bl.sln
+
+
+15:41:55.744: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: True -> False.
+15:41:55.744: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: FocusPublished -> NotPublished.
+15:41:55.744: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel) -> <NULL>.
+15:41:55.744: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] >> (Closing) IsToPublish high, publishing the result list.
+15:41:55.758: Thread:118: [JetDispatcher] Thread UiTaskExecutorWorker:118 created an Avalon marshaller.
+15:41:55.758: Thread:118: [JetDispatcher] Thread UiTaskExecutorWorker:118 pwned.
+15:41:55.759: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Retoh -> IVsWindowFrame::Empty.
+15:41:55.921: Thread:118: Suitable configuration loaded ID's: 
+bt24
+bt10
+
+
+15:41:56.077: Thread:118: Related project loaded ID's: 
+project11
+_Root
+project14
+project17
+project22
+
+
+15:41:56.080: Thread:118: Build configurations loaded external ID's: 
+bt10
+bt24
+
+
+15:42:20.880: Thread:118: Patch for 1 changes created.
+15:42:20.880: Thread:118: svn://3d8e3ad2-100e-453a-9215-b958a6f6ad8b|BL/trunk/%REMOVED%.Bl.sln
+15:42:20.883: Thread:118: [AsyncHttpFileUploader] Begin request to %REMOVED%.eu-west-1.compute.amazonaws.com/uploadChanges.html?userId=3&description=%5bBL-79%5d+Testing+personal+build&date=1404830540882&commitType=0
+15:42:20.906: Thread:111: [AsyncHttpFileUploader] Sending file content
+15:42:20.906: Thread:111: [AsyncHttpFileUploader] File content sent
+15:42:20.906: Thread:111: [AsyncHttpFileUploader] Waiting for response
+15:42:20.928: Thread:111: [AsyncHttpFileUploader] Response callback called
+15:42:21.119: Thread:1: EXCEPTION: Failed to post changes to TeamCity server. No builds were queued.
+
+Failed to post changes to TeamCity server. No builds were queued.
+ ---> JetBrains.TeamCity.Common.ErrorHandling.TeamCityException: Failed to post changes to TeamCity server. No builds were queued.
+
+   at JetBrains.TeamCity.Utils.ErrorManagement.ErrorManagerEx.ThrowExceptionIfHasErrors(ErrorManager errorManager)
+   at JetBrains.TeamCity.RemoteRun.PersonalBuild.PersonalBuildConfigurator.DoConfigurePersonalBuild(IEnumerable`1 pendingChanges, String dialogTitle)
+   at JetBrains.TeamCity.RemoteRun.PersonalBuild.PersonalBuildConfigurator.<>c__DisplayClass1.<ConfigurePersonalBuild>b__0()
+   Exception_EndOfInnerExceptionStack
+   at JetBrains.Threading.JetDispatcher.Closure.Execute()
+   at JetBrains.Threading.JetDispatcher.ProcessQueue()
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+
+
+15:42:55.261: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: False -> True.
+15:42:55.261: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: NotPublished -> FocusPublished.
+15:42:55.261: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] << (Opening) IsToPublish high, publishing the result list.
+15:42:55.261: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: <NULL> -> ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel).
+15:42:55.267: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Empty -> IVsWindowFrame::Retoh.
+15:42:57.238: Thread:1: Getting suitable configurations from TeamCity server %REMOVED%.eu-west-1.compute.amazonaws.com.
+15:42:57.238: Thread:1: Target URL's:
+svn://3d8e3ad2-100e-453a-9215-b958a6f6ad8b|BL/trunk/%REMOVED%.Bl.sln
+
+
+15:42:57.266: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] Boolean::IsKeyboardFocusWithin: True -> False.
+15:42:57.266: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] PublishingState::State: FocusPublished -> NotPublished.
+15:42:57.266: Thread:1: @[ResultListValue] IResultListHandler::CurrentResultListHandler: ResultList(JetBrains.TeamCity.Utils.CustomUI.AutoUpdatingTreeModelBrowserPanel) -> <NULL>.
+15:42:57.266: Thread:1: @[AutoUpdatingTreeModelBrowserPanel+Tokod] >> (Closing) IsToPublish high, publishing the result list.
+15:42:57.268: Thread:1: @[VsResultListSync] IVsWindowFrame::VsWindowFramePublishedVia: IVsWindowFrame::Retoh -> IVsWindowFrame::Empty.
+15:42:57.419: Thread:118: Suitable configuration loaded ID's: 
+bt24
+bt10
+
+
+15:42:57.570: Thread:118: Related project loaded ID's: 
+project11
+_Root
+project14
+project17
+project22
+
+
+15:42:57.570: Thread:118: Build configurations loaded external ID's: 
+bt10
+bt24
+
+
+15:43:04.721: Thread:118: Patch for 1 changes created.
+15:43:04.721: Thread:118: svn://3d8e3ad2-100e-453a-9215-b958a6f6ad8b|BL/trunk/%REMOVED%.Bl.sln
+15:43:04.722: Thread:118: [AsyncHttpFileUploader] Begin request to %REMOVED%.eu-west-1.compute.amazonaws.com/uploadChanges.html?userId=3&description=%5bBL-79%5d+Testing+personal+build&date=1404830584722&commitType=0
+15:43:04.744: Thread:121: [AsyncHttpFileUploader] Sending file content
+15:43:04.744: Thread:121: [AsyncHttpFileUploader] File content sent
+15:43:04.744: Thread:121: [AsyncHttpFileUploader] Waiting for response
+15:43:04.766: Thread:121: [AsyncHttpFileUploader] Response callback called
+15:43:04.895: Thread:1: EXCEPTION: Failed to post changes to TeamCity server. No builds were queued.
+
+Failed to post changes to TeamCity server. No builds were queued.
+ ---> JetBrains.TeamCity.Common.ErrorHandling.TeamCityException: Failed to post changes to TeamCity server. No builds were queued.
+
+   at JetBrains.TeamCity.Utils.ErrorManagement.ErrorManagerEx.ThrowExceptionIfHasErrors(ErrorManager errorManager)
+   at JetBrains.TeamCity.RemoteRun.PersonalBuild.PersonalBuildConfigurator.DoConfigurePersonalBuild(IEnumerable`1 pendingChanges, String dialogTitle)
+   at JetBrains.TeamCity.RemoteRun.PersonalBuild.PersonalBuildConfigurator.<>c__DisplayClass1.<ConfigurePersonalBuild>b__0()
+   Exception_EndOfInnerExceptionStack
+   at JetBrains.Threading.JetDispatcher.Closure.Execute()
+   at JetBrains.Threading.JetDispatcher.ProcessQueue()
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.DispatcherOperation.InvokeImpl()
+   at System.Windows.Threading.DispatcherOperation.InvokeInSecurityContext(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Threading.DispatcherOperation.Invoke()
+   at System.Windows.Threading.Dispatcher.ProcessQueue()
+   at System.Windows.Threading.Dispatcher.WndProcHook(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndWrapper.WndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam, Boolean& handled)
+   at MS.Win32.HwndSubclass.DispatcherCallbackOperation(Object o)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at MS.Internal.Threading.ExceptionFilterHelper.TryCatchWhen(Object source, Delegate method, Object args, Int32 numArgs, Delegate catchHandler)
+   at System.Windows.Threading.Dispatcher.LegacyInvokeImpl(DispatcherPriority priority, TimeSpan timeout, Delegate method, Object args, Int32 numArgs)
+   at MS.Win32.HwndSubclass.SubclassWndProc(IntPtr hwnd, Int32 msg, IntPtr wParam, IntPtr lParam)
+
+
