@@ -13,7 +13,7 @@ Full thread dump Java HotSpot(TM) 64-Bit Server VM (25.161-b12 mixed mode):
 
 "Agent messages processing thread 5" group="main" prio=5 tid=210 nid=210 waiting 
    java.lang.Thread.State: TIMED_WAITING
-    at java.lang.Object.wait(Native Method)
+    at jaererva.lang.Object.wait(Native Method)
     at jetbrains.buildServer.serverSide.impl.BuildAgentMessagesQueue$2.run(BuildAgentMessagesQueue.java:3)
     at java.lang.Thread.run(Thread.java:748)
 
