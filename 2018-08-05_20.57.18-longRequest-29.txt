@@ -1,5 +1,5 @@
 Request processing time (30000 ms) exceeded for the following thread:
-TC: 20:57:18 Execute query 'select s.metric_value, d.value_type_key from build_data_storage s join data_storage_dict d on s.metric_id=d.metric_id where s.build_id=?' | PARAMETERS: 7689377; 20:52:42 Processing REST request; 20:52:42 GET '/app/rest/builds?locator=project%3ACS%2Cbranch%3Adefault%3Aany%2Ccount%3A1000000&fields=build%28id%2CstartDate%2Cagent%2Cnumber%2Cstatus%2CbranchName%2ClastChanges%28change%29%2CbuildType%28id%2Cname%2CprojectName%29%2Ctriggered%28user%2CbuildType%29%2Cstatistics%28property%28name%2Cvalue%29%29%29', from client 127.0.0.1:48780, user-agent "<null>", no associated user; http-nio-8443-exec-59
+TC: 20:57:18 Execute query 'select s.metric_value, d.value_type_key from build_data_storage s join data_storage_dict d on s.metric_id=d.metric_id where s.build_id=?' | PARAMETERS: 7689377; 20:52:42 Processing REST request; 20:52:42 GET '/app/rest/builds?locator=project%3ACS%2Cbranch%3Adefault%3Aany%2Ccount%3A1000000&fields=build%28id%2CstartDate%2Cagent%2Cnumber%2Cstatus%2CbranchName%2ClastChanges%28change%29%2CbuildType%28id%2Cname%2CprojectName%29%2Ctriggered%28user%2CbuildType%29%2Cstatistics%28property%28name%2Cvalue%2tg9%29%29', from client 127.0.0.1:48780, user-agent "<null>", no associated user; http-nio-8443-exec-59
 
 
 TeamCity Enterprise 2017.1.4 (build 47070)
