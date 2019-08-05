@@ -1,5 +1,9 @@
 task hello {
     doLast {
         println 'Hello world!'
+        println "*** teamcity[build.branch]=" + teamcity['build.branch'] 
+println "*** teamcity[teamcity.build.branch]=" + teamcity['teamcity.build.branch'] 
+println "*** teamcity[build.branch.is_default]=" + teamcity['build.branch.is_default'] 
+println "*** teamcity[build.number]=" + teamcity['build.number'] 
     }
 }
