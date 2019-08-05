@@ -1,4 +1,3 @@
-build.gradle
 task hello {
     doLast {
         println 'Hello world!'
