@@ -6,7 +6,7 @@ TeamCity Enterprise 2017.1.4 (build 47070)
 OS: Linux, version 2.6.32-696.23.1.el6.x86_64, amd64, Current user: devops, Time zone: BST (UTC+01:00)
 Java: 1.8.0_161, Java HotSpot(TM) 64-Bit Server VM (25.161-b12, mixed mode), Java(TM) SE Runtime Environment (1.8.0_161-b12), Oracle Corporation; JVM parameters: -Djava.util.logging.config.file=/sbclocal/TeamCity/conf/logging.properties -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djdk.tls.ephemeralDHKeySize=2048 -Xms2g -Xmx12g -XX:MaxPermSize=2500m -Dteamcity.configuration.path=../conf/teamcity-startup.properties -Dlog4j.configuration=file:/sbclocal/TeamCity/bin/../conf/teamcity-server-log4j.xml -Dteamcity_logs=../logs/ -Djava.awt.headless=true -Dtomcat.util.http.parser.HttpParser.requestTargetAllow={} -Djava.endorsed.dirs=/sbclocal/TeamCity/endorsed -Dcatalina.base=/sbclocal/TeamCity -Dcatalina.home=/sbclocal/TeamCity -Djava.io.tmpdir=/sbclocal/TeamCity/temp
 Database type: Oracle
-
+ffff
 
 2018-08-05 20:49:18
 Full thread dump Java HotSpot(TM) 64-Bit Server VM (25.161-b12 mixed mode):
